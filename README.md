@@ -1,8 +1,8 @@
-<img width="200" height="2796" alt="b4a85e7e-af5e-4bd9-8168-c1a2e8c7c17c" src="https://github.com/user-attachments/assets/770f7015-eee2-4c87-ba8d-d1c36364ccb2" />
-<img width="200" height="2796" alt="e090c55d-f1a1-42ad-9c69-64003d9655c8" src="https://github.com/user-attachments/assets/167730df-2a48-491c-9ff1-7e59cb1cde47" />
-<img width="200" height="2796" alt="f0fff670-4629-4427-a984-e546518dc389" src="https://github.com/user-attachments/assets/3e84a892-14c6-4fd3-8dd4-a0ed27955b82" />
-<img width="200" height="2796" alt="cb6bb29e-350b-48b1-9e88-236cdb8d40f6" src="https://github.com/user-attachments/assets/eb621d35-d7a9-4153-bcb0-f39eed7ef4d7" />
-<img width="200" height="2796" alt="bf44ec5c-efa5-45a3-bbd3-be36b1d21bd0" src="https://github.com/user-attachments/assets/fe771cb0-5612-44c6-9bd3-53374dd1cd7e" />
+<img width="200"  alt="b4a85e7e-af5e-4bd9-8168-c1a2e8c7c17c" src="https://github.com/user-attachments/assets/770f7015-eee2-4c87-ba8d-d1c36364ccb2" />
+<img width="200"  alt="e090c55d-f1a1-42ad-9c69-64003d9655c8" src="https://github.com/user-attachments/assets/167730df-2a48-491c-9ff1-7e59cb1cde47" />
+<img width="200"  alt="f0fff670-4629-4427-a984-e546518dc389" src="https://github.com/user-attachments/assets/3e84a892-14c6-4fd3-8dd4-a0ed27955b82" />
+<img width="200"  alt="cb6bb29e-350b-48b1-9e88-236cdb8d40f6" src="https://github.com/user-attachments/assets/eb621d35-d7a9-4153-bcb0-f39eed7ef4d7" />
+<img width="200"  alt="bf44ec5c-efa5-45a3-bbd3-be36b1d21bd0" src="https://github.com/user-attachments/assets/fe771cb0-5612-44c6-9bd3-53374dd1cd7e" />
 
 # 📝 Notes App - iOS Local Storage Foundation
 
